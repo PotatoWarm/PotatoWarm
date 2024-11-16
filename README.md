@@ -1,6 +1,6 @@
 - 🌱 目前正在学Vue，代码已经上传git
   
-- 🤔 大学期间个人主页：(https://github.com/PotatoWarm/Myhome)
+- 🤔 天天开心!
   
 - ⚡ 有趣的事情是最近我吃胖了！
   
