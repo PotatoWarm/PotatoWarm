@@ -1,24 +1,14 @@
-# 🥔Potato玲学习之旅：
+- 🌱 我目前正在学Vue
+- 🤔 正在一家公司实习
+- ⚡ 有趣的事情是最近我吃胖了！
+- 
 
-## 👏开场白
+我的博客/作品：
 
-**大家好我是玲**，00后来自中国的小花朵：
-
-| 2019年     | 2020年 | 2021年 | 2022年 | 2023年 | 2024年 | 2025年 |
-| ---------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Title   | Title       | Description | Description | Description | Description | Description |
-|Title  | Text        | Description | Description | Description | Description | Description |
-| Description  | Description | Description | Description | Description | Description | Description |
+- [掘金专栏](https://juejin.cn/user/132402077765278)
 
 
-
-
-
-
-
-
-
-
+## 今年汇总 ✨
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=PotatoWarm&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PotatoWarm&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 <!--
 **PotatoWarm/PotatoWarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
