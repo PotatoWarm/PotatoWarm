@@ -6,8 +6,8 @@
 
 | 2019年     | 2020年 | 2021年 | 2022年 | 2023年 | 2024年 | 2025年 |
 | ---------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 打字练习    | Title       | Description | Description | Description | Description | Description |
-| world文档 | Text        | Description | Description | Description | Description | Description |
+| Title   | Title       | Description | Description | Description | Description | Description |
+|Title  | Text        | Description | Description | Description | Description | Description |
 | Description  | Description | Description | Description | Description | Description | Description |
 
 
